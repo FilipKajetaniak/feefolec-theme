@@ -1,0 +1,21 @@
+{
+  "name": "feefoolec-theme",
+  "displayName": "feefoolec theme",
+  "description": "Made by Feefoolec for Feefoolec",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Feefoolec",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Feefoolec-color-theme.json"
+      }
+    ]
+  }
+}
